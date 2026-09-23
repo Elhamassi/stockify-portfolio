@@ -1,8 +1,7 @@
 # Stockify — Plateforme de gestion de stock
 
 > Projet de fin d'études — **Plateforme de gestion de stock pour boutiques individuelles**  
-> Réalisé par **Yousra El Hamassi** — ENSA Tanger  
-> Soutenu le **03/12/2023**
+
 
 ## 📌 Présentation
 
@@ -117,12 +116,4 @@ Le rapport identifie plusieurs pistes d'amélioration :
 - ajouter des fonctionnalités de **commerce électronique** ;
 - proposer davantage de **personnalisation** afin d'adapter la plateforme aux besoins futurs des utilisateurs.
 
-## 📄 Source
-
-Ce README est basé sur la partie **« Chapitre 4 : Réalisation du système »** et la **conclusion générale / perspectives** du rapport de PFE.
-
-## 👤 Auteur
-
-**Yousra El Hamassi**  
-École Nationale des Sciences Appliquées de Tanger — Université Abdelmalek Essaâdi
 
